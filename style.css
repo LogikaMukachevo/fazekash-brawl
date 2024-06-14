@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+div{
+    text-align: center;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    color: black;
+    position: absolute;
+    width: 100%;
+   top: 200px;
+}
+
+h2, h3, p, h4{
+    text-align: center;
+}
+
+p{
+    margin-right: 100px;
+    margin-left: 100px;
+
+}
+
+a{
+    color: rgb(2, 189, 252);
+    text-decoration: none;
+}
+
+.common{
+    color: grey;
+}
+
+.rare{
+    color: green;
+}
+
+.superrare{
+    color: blue;
+}
+
+.epic{
+    color: purple;
+}
+
+.mithic{
+    color: red;
+}
+
+.legendary{
+    color: yellow;
+}
